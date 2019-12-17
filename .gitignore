@@ -9,4 +9,4 @@ artifacts/
 debug/
 out/
 node_modules/
-wwwroot/
+.vs/
